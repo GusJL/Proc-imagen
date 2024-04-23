@@ -1,1 +1,10 @@
-"# Proc-imagen" 
+COLEGIO PROVINCIAL: POLITÉCNICO "MALVINAS ARGENTINAS"
+
+CARRERA : TÉCNICO SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+
+CÁTEDRA : PROCESAMIENTO DE IMAGEN
+
+CONTENIDO: Notebook prácticas correspondientes a cada clase.
+
+![image](https://github.com/GusJL/Proc-imagen/assets/166078549/580acdc8-338b-43bc-829f-ab4f4ee3cd81)
+
